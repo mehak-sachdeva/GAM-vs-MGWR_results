@@ -1,0 +1,1 @@
+# GAM-vs-MGWR_results
